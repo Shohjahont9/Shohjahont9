@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 [![Muhammadsher's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Shohjahont9&country_code=uzbekistan&theme=light)](https://github.com/Muhammadsher/github-readme-ranking)
 
 [![Muhammadsher's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Shohjahont9&country_code=uzbekistan&theme=dark)](https://github.com/Muhammadsher/github-readme-ranking)
+
+
+[![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
