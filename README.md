@@ -1,6 +1,7 @@
-### Totliboyev Shohjahon
+### Totliboyev Shohjahon 
 
-Android developer
+Android developer  
+[![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
 
 <!--
 **Shohjahont9/Shohjahont9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,5 +24,3 @@ Here are some ideas to get you started:
 
 [![Muhammadsher's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Shohjahont9&country_code=uzbekistan&theme=dark)](https://github.com/Muhammadsher/github-readme-ranking)
 
-
-[![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
